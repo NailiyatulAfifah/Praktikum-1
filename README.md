@@ -9,5 +9,5 @@ Latihan 4
 ![alt text](https://github.com/NailiyatulAfifah/Praktikum-1/blob/master/Latihan%204.PNG?raw=true)
 Latihan 5
 ![alt text](https://github.com/NailiyatulAfifah/Praktikum-1/blob/master/Latihan%205.PNG?raw=true)
-variabel_hasil
-![alt text](https://github.com/NailiyatulAfifah/Praktikum-1/blob/master/Latihan%20variabel_hasil.PNG?raw=true)
+Variabel Hasil
+![alt text](https://github.com/NailiyatulAfifah/Praktikum-1/blob/master/variabel_hasil.PNG?raw=true)
